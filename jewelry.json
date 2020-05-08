@@ -1,0 +1,167 @@
+[
+ {
+   "ID": "455c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier gold necklace 2",
+   "GRAPHICNAME": "neck2.jpg",
+   "COSTPRICE": 49789900,
+   "MSRP": 57000,
+   "QTYONHAND": 6,
+   "QTYONBACKORDER": 20,
+   "DESCription": "cartier 18K trinty gold necklace white gold or rose gold"
+ },
+ {
+   "ID": "456c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier gold ring",
+   "GRAPHICNAME": "infi_ring.jpg",
+   "COSTPRICE": 1595234,
+   "MSRP": 53456,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 12,
+   "DESCription": "cartier 14K infinty gold necklace white gold or rose gold"
+ },
+ {
+   "ID": "457c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier sliver necklace",
+   "GRAPHICNAME": "neck3.jpg",
+   "COSTPRICE": 332345,
+   "MSRP": 94000,
+   "QTYONHAND": 0,
+   "QTYONBACKORDER": 5,
+   "DESCription": "cartier 18K trinty gold necklace white gold or rose gold"
+ },
+ {
+   "ID": "234c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier necklace",
+   "GRAPHICNAME": "neck.jpg",
+   "COSTPRICE": 19789900,
+   "MSRP": 97000,
+   "QTYONHAND": 3,
+   "QTYONBACKORDER": 6,
+   "DESCription": "cartier 18K trinty gold necklace white gold or rose gold"
+ },
+ {
+   "ID": "245c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier gold ring",
+   "GRAPHICNAME": "panther_ring.jpg",
+   "COSTPRICE": 1595234,
+   "MSRP": 53456,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 4,
+   "DESCription": "Cartier gold ring with green panther"
+ },
+ {
+   "ID": "787t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany bracelet",
+   "GRAPHICNAME": "silver.jpg",
+   "COSTPRICE": 400,
+   "MSRP": 323,
+   "QTYONHAND": 0,
+   "QTYONBACKORDER": 12,
+   "DESCription": "Tiffany silver bracelete new york 25"
+ },
+ {
+   "ID": "799t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany tag",
+   "GRAPHICNAME": "tag.jpg",
+   "COSTPRICE": 340,
+   "MSRP": 200,
+   "QTYONHAND": 5,
+   "QTYONBACKORDER": 10,
+   "DESCription": "Tiffany heart tag charm with lock"
+ },
+ {
+   "ID": "729t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany ring",
+   "GRAPHICNAME": "r.jpg",
+   "COSTPRICE": 500,
+   "MSRP": 320,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 7,
+   "DESCription": "diamond ring size 8 "
+ },
+ {
+   "ID": "739t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany ring2 ",
+   "GRAPHICNAME": "r2.jpg",
+   "COSTPRICE": 890,
+   "MSRP": 290,
+   "QTYONHAND": 0,
+   "QTYONBACKORDER": 11,
+   "DESCription": "diamond ring size 12 with diamond"
+ },
+ {
+   "ID": "749t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany ring3",
+   "GRAPHICNAME": "r3.jpg",
+   "COSTPRICE": 430,
+   "MSRP": 320,
+   "QTYONHAND": 2,
+   "QTYONBACKORDER": 5,
+   "DESCription": "diamond ring size 6"
+ },
+ {
+   "ID": "333S",
+   "BRAND": "Swaroveski",
+   "NAME": "watch",
+   "GRAPHICNAME": "watch.jpg",
+   "COSTPRICE": 3190,
+   "MSRP": 256,
+   "QTYONHAND": 3,
+   "QTYONBACKORDER": 18,
+   "DESCription": "crystal oval watch, leather strap"
+ },
+ {
+   "ID": "323S",
+   "BRAND": "Swaroveski",
+   "NAME": "watch with bracelet",
+   "GRAPHICNAME": "watch+bracelet.jpg",
+   "COSTPRICE": 4367,
+   "MSRP": 2456,
+   "QTYONHAND": 2,
+   "QTYONBACKORDER": 5,
+   "DESCription": "crystal oval watch + diamond bracelet"
+ },
+ {
+   "ID": "313S",
+   "BRAND": "Swaroveski",
+   "NAME": "watch2",
+   "GRAPHICNAME": "rosewatch.jpg",
+   "COSTPRICE": 433,
+   "MSRP": 322,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 2,
+   "DESCription": "crystal oval watch, rose gold strap"
+ },
+ {
+   "ID": "343S",
+   "BRAND": "Swaroveski",
+   "NAME": "Cosmic watch",
+   "GRAPHICNAME": "watch3.jpg",
+   "COSTPRICE": 765,
+   "MSRP": 700,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 7,
+   "DESCription": "crystal oval watch, leather strap"
+ },
+ {
+   "ID": "353S",
+   "BRAND": "Swaroveski",
+   "NAME": "Dream watch",
+   "GRAPHICNAME": "watch5.jpg",
+   "COSTPRICE": 865,
+   "MSRP": 490,
+   "QTYONHAND": 5,
+   "QTYONBACKORDER": 10,
+   "DESCription": "AN ELEGANT TIMEPIECE, Our women�s minimalist watch is the epitome of elegance. With a Swarovski crystal built into the design"
+ }
+]
