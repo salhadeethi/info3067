@@ -1,0 +1,167 @@
+[
+ {
+   "ID": "455c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier diamond necklace ",
+   "GRAPHICNAME": "c_neck.jpg",
+   "COSTPRICE": 49789900,
+   "MSRP": 57000,
+   "QTYONHAND": 6,
+   "QTYONBACKORDER": 20,
+   "DESCription": "cartier 18K trinty gold necklace white gold or rose gold"
+ },
+ {
+   "ID": "456c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier gold ring",
+   "GRAPHICNAME": "c_ring.jpg",
+   "COSTPRICE": 1595234,
+   "MSRP": 53456,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 12,
+   "DESCription": "cartier 14K infinty gold necklace white gold or rose gold"
+ },
+ {
+   "ID": "457c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier trinty ring",
+   "GRAPHICNAME": "c_trin.jpg",
+   "COSTPRICE": 332345,
+   "MSRP": 94000,
+   "QTYONHAND": 0,
+   "QTYONBACKORDER": 5,
+   "DESCription": "cartier 18K trinty yellow gold "
+ },
+ {
+   "ID": "234c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier bracelete",
+   "GRAPHICNAME": "c_brac.jpg",
+   "COSTPRICE": 19789900,
+   "MSRP": 97000,
+   "QTYONHAND": 3,
+   "QTYONBACKORDER": 6,
+   "DESCription": "cartier 18K yellow gold bracetete"
+ },
+ {
+   "ID": "245c",
+   "BRAND": "Cartier",
+   "NAME": "Cartier panther ring",
+   "GRAPHICNAME": "c_panther_ring.jpg",
+   "COSTPRICE": 1595234,
+   "MSRP": 53456,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 4,
+   "DESCription": "Cartier gold ring with green panther"
+ },
+ {
+   "ID": "787t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany watch",
+   "GRAPHICNAME": "twatch.jpg",
+   "COSTPRICE": 400,
+   "MSRP": 323,
+   "QTYONHAND": 0,
+   "QTYONBACKORDER": 12,
+   "DESCription": "Men's watch in stainless steel. Tiffany Blue azure dial. 37.5 mm case. Quartz movement"
+ },
+ {
+   "ID": "799t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany heart silver tag",
+   "GRAPHICNAME": "T_heartag.jpg",
+   "COSTPRICE": 340,
+   "MSRP": 200,
+   "QTYONHAND": 5,
+   "QTYONBACKORDER": 10,
+   "DESCription": "Tiffany heart tag charm with lock"
+ },
+ {
+   "ID": "729t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany diamond ring",
+   "GRAPHICNAME": "T_diamring.jpg",
+   "COSTPRICE": 500,
+   "MSRP": 320,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 7,
+   "DESCription": "diamond ring size 8 "
+ },
+ {
+   "ID": "739t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany sliver necklace",
+   "GRAPHICNAME": "t_crown.jpg",
+   "COSTPRICE": 890,
+   "MSRP": 290,
+   "QTYONHAND": 0,
+   "QTYONBACKORDER": 11,
+   "DESCription": "diamond silver key crown necklace "
+ },
+ {
+   "ID": "749t",
+   "BRAND": "Tiffany & Co",
+   "NAME": "Tiffany pearl earing necklace",
+   "GRAPHICNAME": "t_ear.jpg",
+   "COSTPRICE": 430,
+   "MSRP": 320,
+   "QTYONHAND": 2,
+   "QTYONBACKORDER": 5,
+   "DESCription": "diamond ring size 6"
+ },
+ {
+   "ID": "333S",
+   "BRAND": "Swaroveski",
+   "NAME": "Swaroveski crystal watch",
+   "GRAPHICNAME": "s_watch.jpg",
+   "COSTPRICE": 3190,
+   "MSRP": 256,
+   "QTYONHAND": 3,
+   "QTYONBACKORDER": 18,
+   "DESCription": "crystal men  watch with Swaroveski diamond"
+ },
+ {
+   "ID": "323S",
+   "BRAND": "Swaroveski",
+   "NAME": "Swaroveski men ring",
+   "GRAPHICNAME": "s_mring.jpg",
+   "COSTPRICE": 4367,
+   "MSRP": 2456,
+   "QTYONHAND": 2,
+   "QTYONBACKORDER": 5,
+   "DESCription": "crystal swar diamond  and gold men ring "
+ },
+ {
+   "ID": "313S",
+   "BRAND": "Swaroveski",
+   "NAME": "Swaroveski earing",
+   "GRAPHICNAME": "s_ear.jpg",
+   "COSTPRICE": 433,
+   "MSRP": 322,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 2,
+   "DESCription": "Swarovski-earring-butterflyBlue"
+ },
+ {
+   "ID": "343S",
+   "BRAND": "Swaroveski",
+   "NAME": "Swarovski infinity bracelet",
+   "GRAPHICNAME": "si_brac.jpg",
+   "COSTPRICE": 765,
+   "MSRP": 700,
+   "QTYONHAND": 1,
+   "QTYONBACKORDER": 7,
+   "DESCription": "swarovski-infinity-bangle--white--rose-gold-tone-plated-swarovski"
+ },
+ {
+   "ID": "353S",
+   "BRAND": "Swaroveski",
+   "NAME": "Swaroveski Diamond ring",
+   "GRAPHICNAME": "d_sring.jpg",
+   "COSTPRICE": 865,
+   "MSRP": 490,
+   "QTYONHAND": 5,
+   "QTYONBACKORDER": 10,
+   "DESCription": "�Mens Diamond Wedding Rings"
+ }
+]
