@@ -24,7 +24,7 @@
  {
    "ID": "457c",
    "BRAND": "Cartier",
-   "NAME": "Cartier trinty ring",
+   "NAME": "Cartier ring",
    "GRAPHICNAME": "c_trin.jpg",
    "COSTPRICE": 332345,
    "MSRP": 94000,
@@ -52,7 +52,7 @@
    "MSRP": 53456,
    "QTYONHAND": 1,
    "QTYONBACKORDER": 4,
-   "DESCription": "Cartier gold ring with green panther"
+   "DESCription": "Panthère de Cartier ring, 18K yellow gold, set with 137 brilliant-cut diamonds totaling 1.15 carats, emeralds, onyx.Also available with rose gold size 55 "
  },
  {
    "ID": "787t",
@@ -140,7 +140,7 @@
    "MSRP": 322,
    "QTYONHAND": 1,
    "QTYONBACKORDER": 2,
-   "DESCription": "Swarovski-earring-butterflyBlue"
+   "DESCription": "Swarovski-earring-butterflyBlue, Swarovski-earring-butterflyBlue,This pair of pierced Swarovski earrings is simple yet sophisticated. Artfully cut, a single blue Swarovski crystal forms the centerpiece of each"
  },
  {
    "ID": "343S",
@@ -162,6 +162,7 @@
    "MSRP": 490,
    "QTYONHAND": 5,
    "QTYONBACKORDER": 10,
-   "DESCription": "�Mens Diamond Wedding Rings"
+   "DESCription":"Our Swarovski Elements Crystals collection Cate and Chloe Celeste 18k White Gold Plated Swarovski Ring, Engagement Ring, Wedding Ring, Promise Ring"
+
  }
 ]
