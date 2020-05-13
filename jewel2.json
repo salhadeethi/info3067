@@ -24,7 +24,7 @@
  {
    "ID": "457c",
    "BRAND": "Cartier",
-   "NAME": "Cartier trinty ring",
+   "NAME": "Cartier ring",
    "GRAPHICNAME": "c_trin.jpg",
    "COSTPRICE": 332345,
    "MSRP": 94000,
@@ -52,7 +52,7 @@
    "MSRP": 53456,
    "QTYONHAND": 1,
    "QTYONBACKORDER": 4,
-   "DESCription": "Cartier gold ring with green panther"
+   "DESCription": "Panthère de Cartier ring, 18K yellow gold, set with 137 brilliant-cut diamonds totaling 1.15 carats, emeralds, onyx.Also available with rose gold size 55 "
  },
  {
    "ID": "787t",
@@ -107,7 +107,7 @@
    "MSRP": 320,
    "QTYONHAND": 2,
    "QTYONBACKORDER": 5,
-   "DESCription": "diamond ring size 6"
+   "DESCription": "diamond ring size Diamond Wedding Rings, Our Swarovski Elements Crystals collection offers an exquisite range of colourful necklaces and earrings. Each unique design has beautiful detailing"
  },
  {
    "ID": "333S",
@@ -140,15 +140,16 @@
    "MSRP": 322,
    "QTYONHAND": 1,
    "QTYONBACKORDER": 2,
-   "DESCription": "Swarovski-earring-butterflyBlue"
+   "DESCription": "Swarovski-earring-butterflyBlue,This pair of pierced Swarovski earrings is simple yet sophisticated. Artfully cut, a single blue Swarovski crystal forms the centerpiece of each ...
+"
  },
  {
    "ID": "343S",
    "BRAND": "Swaroveski",
    "NAME": "Swarovski infinity bracelet",
    "GRAPHICNAME": "si_brac.jpg",
-   "COSTPRICE": 765,
-   "MSRP": 700,
+   "COSTPRICE": 543,
+   "MSRP": 321,
    "QTYONHAND": 1,
    "QTYONBACKORDER": 7,
    "DESCription": "swarovski-infinity-bangle--white--rose-gold-tone-plated-swarovski"
@@ -158,10 +159,10 @@
    "BRAND": "Swaroveski",
    "NAME": "Swaroveski Diamond ring",
    "GRAPHICNAME": "d_sring.jpg",
-   "COSTPRICE": 865,
-   "MSRP": 490,
+   "COSTPRICE": 324,
+   "MSRP": 132,
    "QTYONHAND": 5,
    "QTYONBACKORDER": 10,
-   "DESCription": "�Mens Diamond Wedding Rings"
+   "DESCription":"Our Swarovski Elements Crystals collection Cate and Chloe Celeste 18k White Gold Plated Swarovski Ring, Engagement Ring, Wedding Ring, Promise Ring"
  }
 ]
