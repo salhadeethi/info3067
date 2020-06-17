@@ -1,169 +1,167 @@
-  
 [
- {
-   "ID": "455c",
-   "BRAND": "Cartier",
-   "NAME": "Cartier diamond necklace ",
-   "GRAPHICNAME": "c_neck.jpg",
-   "COSTPRICE": 49789900,
-   "MSRP": 57000,
-   "QTYONHAND": 6,
-   "QTYONBACKORDER": 20,
-   "DESCription": "cartier 18K trinty gold necklace white gold or rose gold"
- },
- {
-   "ID": "456c",
-   "BRAND": "Cartier",
-   "NAME": "Cartier gold ring",
-   "GRAPHICNAME": "c_ring.jpg",
-   "COSTPRICE": 1595234,
-   "MSRP": 53456,
-   "QTYONHAND": 1,
-   "QTYONBACKORDER": 12,
-   "DESCription": "cartier 14K infinty gold necklace white gold or rose gold"
- },
- {
-   "ID": "457c",
-   "BRAND": "Cartier",
-   "NAME": "Cartier ring",
-   "GRAPHICNAME": "c_trin.jpg",
-   "COSTPRICE": 332345,
-   "MSRP": 94000,
-   "QTYONHAND": 0,
-   "QTYONBACKORDER": 5,
-   "DESCription": "cartier 18K trinty yellow gold "
- },
- {
-   "ID": "234c",
-   "BRAND": "Cartier",
-   "NAME": "Cartier bracelete",
-   "GRAPHICNAME": "c_brac.jpg",
-   "COSTPRICE": 19789900,
-   "MSRP": 97000,
-   "QTYONHAND": 3,
-   "QTYONBACKORDER": 6,
-   "DESCription": "cartier 18K yellow gold bracetete"
- },
- {
-   "ID": "245c",
-   "BRAND": "Cartier",
-   "NAME": "Cartier panther ring",
-   "GRAPHICNAME": "c_panther_ring.jpg",
-   "COSTPRICE": 1595234,
-   "MSRP": 53456,
-   "QTYONHAND": 1,
-   "QTYONBACKORDER": 4,
-   "DESCription": "Panthère de Cartier ring, 18K yellow gold, set with 137 brilliant-cut diamonds totaling 1.15 carats, emeralds, onyx.Also available with rose gold size 55 "
- },
- {
-   "ID": "787t",
-   "BRAND": "Tiffany & Co",
-   "NAME": "Tiffany watch",
-   "GRAPHICNAME": "twatch.jpg",
-   "COSTPRICE": 400,
-   "MSRP": 323,
-   "QTYONHAND": 0,
-   "QTYONBACKORDER": 12,
-   "DESCription": "Men's watch in stainless steel. Tiffany Blue azure dial. 37.5 mm case. Quartz movement"
- },
- {
-   "ID": "799t",
-   "BRAND": "Tiffany & Co",
-   "NAME": "Tiffany heart silver tag",
-   "GRAPHICNAME": "T_heartag.jpg",
-   "COSTPRICE": 340,
-   "MSRP": 200,
-   "QTYONHAND": 5,
-   "QTYONBACKORDER": 10,
-   "DESCription": "Tiffany heart tag charm with lock"
- },
- {
-   "ID": "729t",
-   "BRAND": "Tiffany & Co",
-   "NAME": "Tiffany diamond ring",
-   "GRAPHICNAME": "T_diamring.jpg",
-   "COSTPRICE": 500,
-   "MSRP": 320,
-   "QTYONHAND": 1,
-   "QTYONBACKORDER": 7,
-   "DESCription": "diamond ring size 8 "
- },
- {
-   "ID": "739t",
-   "BRAND": "Tiffany & Co",
-   "NAME": "Tiffany sliver necklace",
-   "GRAPHICNAME": "t_crown.jpg",
-   "COSTPRICE": 890,
-   "MSRP": 290,
-   "QTYONHAND": 0,
-   "QTYONBACKORDER": 11,
-   "DESCription": "diamond silver key crown necklace "
- },
- {
-   "ID": "749t",
-   "BRAND": "Tiffany & Co",
-   "NAME": "Tiffany pearl earing necklace",
-   "GRAPHICNAME": "t_ear.jpg",
-   "COSTPRICE": 430,
-   "MSRP": 320,
-   "QTYONHAND": 2,
-   "QTYONBACKORDER": 5,
-   "DESCription": "diamond ring size 6"
- },
- {
-   "ID": "333S",
-   "BRAND": "Swaroveski",
-   "NAME": "Swaroveski crystal watch",
-   "GRAPHICNAME": "s_watch.jpg",
-   "COSTPRICE": 3190,
-   "MSRP": 256,
-   "QTYONHAND": 3,
-   "QTYONBACKORDER": 18,
-   "DESCription": "crystal men  watch with Swaroveski diamond"
- },
- {
-   "ID": "323S",
-   "BRAND": "Swaroveski",
-   "NAME": "Swaroveski men ring",
-   "GRAPHICNAME": "s_mring.jpg",
-   "COSTPRICE": 4367,
-   "MSRP": 2456,
-   "QTYONHAND": 2,
-   "QTYONBACKORDER": 5,
-   "DESCription": "crystal swar diamond  and gold men ring "
- },
- {
-   "ID": "313S",
-   "BRAND": "Swaroveski",
-   "NAME": "Swaroveski earing",
-   "GRAPHICNAME": "s_ear.jpg",
-   "COSTPRICE": 433,
-   "MSRP": 322,
-   "QTYONHAND": 1,
-   "QTYONBACKORDER": 2,
-   "DESCription": "Swarovski-earring-butterflyBlue, Swarovski-earring-butterflyBlue,This pair of pierced Swarovski earrings is simple yet sophisticated. Artfully cut, a single blue Swarovski crystal forms the centerpiece of each"
- },
- {
-   "ID": "343S",
-   "BRAND": "Swaroveski",
-   "NAME": "Swarovski infinity bracelet",
-   "GRAPHICNAME": "si_brac.jpg",
-   "COSTPRICE": 765,
-   "MSRP": 700,
-   "QTYONHAND": 1,
-   "QTYONBACKORDER": 7,
-   "DESCription": "swarovski-infinity-bangle--white--rose-gold-tone-plated-swarovski"
- },
- {
-   "ID": "353S",
-   "BRAND": "Swaroveski",
-   "NAME": "Swaroveski Diamond ring",
-   "GRAPHICNAME": "d_sring.jpg",
-   "COSTPRICE": 865,
-   "MSRP": 490,
-   "QTYONHAND": 5,
-   "QTYONBACKORDER": 10,
-   "DESCription":"Our Swarovski Elements Crystals collection Cate and Chloe Celeste 18k White Gold Plated Swarovski Ring, Engagement Ring, Wedding Ring, Promise Ring"
-
- }
+  {
+    "ID": "455c",
+    "BRAND": "Cartier",
+    "NAME": "Diamond necklace",
+    "GRAPHICNAME": "c_neck.jpg",
+    "COSTPRICE": 200,
+    "MSRP": 490,
+    "QTYONHAND": 6,
+    "QTYONBACKORDER": 3,
+    "DESCription": "Cartier Trinity pearls ring in yellow gold, pink gold, white gold, gold pearl, diamonds is the perfect union of the priceless metal with the precious stones."
+  },
+  {
+    "ID": "456c",
+    "BRAND": "Cartier",
+    "NAME": "Gold ring",
+    "GRAPHICNAME": "c_ring.jpg",
+    "COSTPRICE": 447,
+    "MSRP": 308.4,
+    "QTYONHAND": 10,
+    "QTYONBACKORDER": 4,
+    "DESCription": "Cartier Trinity ring in aquamarine, white gold, diamond paved is about class, style and sophistication."
+  },
+  {
+    "ID": "457c",
+    "BRAND": "Cartier",
+    "NAME": "Cartier ring",
+    "GRAPHICNAME": "c_trin.jpg",
+    "COSTPRICE": 328,
+    "MSRP": 345,
+    "QTYONHAND": 0,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Magnificent diamond necklace, composed of 233 pear-shaped diamonds weighing approximately 97.00 total carats, mounted in platinum, signed Cartier."
+  },
+  {
+    "ID": "234c",
+    "BRAND": "Cartier",
+    "NAME": "Bracelete",
+    "GRAPHICNAME": "c_brac.jpg",
+    "COSTPRICE": 367,
+    "MSRP": 760,
+    "QTYONHAND": 3,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Cartier 18K Pink and White Gold Estate Diamond Paved Love Bracelet,The bracelet is set with 144 round brilliant cut diamonds, approx. total wt. 1.50cts."
+  },
+  {
+    "ID": "245c",
+    "BRAND": "Cartier",
+    "NAME": "Panther ring",
+    "GRAPHICNAME": "c_panther_ring.jpg",
+    "COSTPRICE": 534,
+    "MSRP": 324,
+    "QTYONHAND": 1,
+    "QTYONBACKORDER": 2,
+    "DESCription": "Panthère de Cartier bracelet, new collection of 18K yellow gold, onyx"
+  },
+  {
+    "ID": "787t",
+    "BRAND": "Tiffany & Co",
+    "NAME": "Tiffany watch",
+    "GRAPHICNAME": "twatch.jpg",
+    "COSTPRICE": 400,
+    "MSRP": 645,
+    "QTYONHAND": 4,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Men's watch in stainless steel. Tiffany Blue azure dial. 37.5 mm case. Quartz movement"
+  },
+  {
+    "ID": "799t",
+    "BRAND": "Tiffany & Co",
+    "NAME": "Heart silver tag",
+    "GRAPHICNAME": "T_heartag.jpg",
+    "COSTPRICE": 340,
+    "MSRP": 543,
+    "QTYONHAND": 5,
+    "QTYONBACKORDER": 10,
+    "DESCription": "Tiffany & Co. Charm Bracelet: Sterling Silver Bracelet, Charm Size: 25mm x 19mm .Chain Width: 9mm,Size: 7"
+  },
+  {
+    "ID": "729t",
+    "BRAND": "Tiffany & Co",
+    "NAME": "Diamond ring",
+    "GRAPHICNAME": "T_diamring.jpg",
+    "COSTPRICE": 500,
+    "MSRP": 752.9,
+    "QTYONHAND": 12,
+    "QTYONBACKORDER": 7,
+    "DESCription": "Tiffany Novo Round Brilliant Engagement Ring with a Pavé Diamond Platinum Band"
+  },
+  {
+    "ID": "739t",
+    "BRAND": "Tiffany & Co",
+    "NAME": "sliver necklace",
+    "GRAPHICNAME": "t_crown.jpg",
+    "COSTPRICE": 193,
+    "MSRP": 290,
+    "QTYONHAND": 2,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Tiffany & Co Return To Heart Key Charm Sterling Silver 925 Necklace, For the bracelet - Composed of 21 smooth and creamy pearls with a Sterling Silver Infinity clasp closure"
+  },
+  {
+    "ID": "749t",
+    "BRAND": "Tiffany & Co",
+    "NAME": "Tiffany pearl earing necklace",
+    "GRAPHICNAME": "t_ear.jpg",
+    "COSTPRICE": 430,
+    "MSRP": 320,
+    "QTYONHAND": 2,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Tiffany & Co Silver Heart Cap Pearl Necklace Charm Infinity Bracelet Bangle Se"
+  },
+  {
+    "ID": "333S",
+    "BRAND": "Swaroveski",
+    "NAME": "Crystal watch",
+    "GRAPHICNAME": "s_watch.jpg",
+    "COSTPRICE": 432,
+    "MSRP": 256,
+    "QTYONHAND": 3,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Bulova Men's Swarovski Crystal Quartz Watch with Two-Tone-Stainless-Steel Strap, 22 (Model: 98C128)"
+  },
+  {
+    "ID": "323S",
+    "BRAND": "Swaroveski",
+    "NAME": "Swaroveski men ring",
+    "GRAPHICNAME": "s_mring.jpg",
+    "COSTPRICE": 523,
+    "MSRP": 876,
+    "QTYONHAND": 2,
+    "QTYONBACKORDER": 0,
+    "DESCription": "18k white gold plated with stamp 18k RGP, nickel free & hypoallergenic! Made with Swarovski Crystal. Ring's top design: 15mm(L) x 13mm(W); Navy blue crystal: 8mm(L) x 6mm(W)."
+  },
+  {
+    "ID": "313S",
+    "BRAND": "Swaroveski",
+    "NAME": "Swaroveski earing",
+    "GRAPHICNAME": "s_ear.jpg",
+    "COSTPRICE": 433,
+    "MSRP": 732,
+    "QTYONHAND": 23,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Luxe Swarovski crystal frenchback earring, Stainless steel ,Hypoallergenic, 18mm approx."
+  },
+  {
+    "ID": "343S",
+    "BRAND": "Swaroveski",
+    "NAME": "Infinity bracelet",
+    "GRAPHICNAME": "si_brac.jpg",
+    "COSTPRICE": 765,
+    "MSRP": 832,
+    "QTYONHAND": 1,
+    "QTYONBACKORDER": 0,
+    "DESCription": "swarovski-infinity-bangle--white--rose-gold-tone-plated-swarovski"
+  },
+  {
+    "ID": "353S",
+    "BRAND": "Swaroveski",
+    "NAME": "Diamond ring",
+    "GRAPHICNAME": "d_sring.jpg",
+    "COSTPRICE": 865,
+    "MSRP": 213,
+    "QTYONHAND": 5,
+    "QTYONBACKORDER": 0,
+    "DESCription": "Black Crystals From Swarovski Ring Men Jewelry 316l Stainless Steel Rings for Men Zircon Black Stone, Round Rings Crystal"
+  }
 ]
